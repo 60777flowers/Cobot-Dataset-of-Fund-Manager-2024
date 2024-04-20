@@ -1,0 +1,29 @@
+Problem1: 
+
+This is the business content including the day-to-day subscription and redemption of fund products. Please classify the business according to the following characteristics and store it in a new excel file according to the table named business. Their characteristics are:
+
+Business 1：申购（募集商向子基金）
+业务类型：申购（汇总）
+划款方向：募集账户>>保管账户
+Business 2：申购（募集商向子基金）
+业务类型：申购（汇总）
+划款方向：保管账户>>保管账户
+Business 3：赎回（募集商向子基金）
+赎回（汇总）
+划款方向：保管账户>>保管账户
+Business 4：赎回（子基金向募集商）
+赎回（汇总）
+划款方向：保管账户>>募集账户
+
+
+Problem2: 
+
+The table here contains the previous day's closing price and today's closing price of all stocks held by open-end fund products. Please update and calculate the following content and save it in a new excel file:
+
+基金资产净值（以持有资产收盘价格为准）
+基金7日收益率（“t 日年化收益率” ）
+
+
+Problem 3:
+
+The table contains a stock pool selected through a quantitative model and related information. Please follow the principles of dispersion by region and industry, combined with your existing stock holdings, and taking into account stamp duty, please make today's purchases and sales. Make a stock decision and store the stock and its change amount in the table
